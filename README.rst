@@ -32,7 +32,7 @@ Contains development version of plugins for Scala IDE 2.0.2 and Scala 2.9.2.
 * ScalaTest plugin for Scala IDE 0.9.2 - `project page`__
 
 __ scala-ide_
-__ scalatest plugin_
+__ scalatest-plugin_
 
 dev-scala-ide-master-scala-2.9
 ..............................
@@ -45,10 +45,10 @@ Contains development version of plugins for Scala IDE 2.1.x and Scala 2.9.x.
 
 * Scala IDE 2.1.x - `website`__
 * ScalaTest plugin for Scala IDE 0.9.2 - `project page`__
-* InSynth code synthesis - `project page`__
+* InSynth code synthesis 0.0.1-nightly - `project wiki`__
 
 __ scala-ide_
-__ scalatest plugin_
+__ scalatest-plugin_
 __ insynth_
 
 dev-scala-ide-master-scala-trunk
@@ -59,7 +59,7 @@ dev-scala-ide-master-scala-trunk
 Contains development version of plugins for Scala IDE 2.1.x and Scala 2.10.x.
 
 * Scala IDE 2.1.x - `website`__
-* InSynth code synthesis - `project page`__
+* InSynth code synthesis 0.0.1-nightly - `project wiki`__
 
 __ scala-ide_
 __ insynth_
@@ -138,5 +138,5 @@ But the basic criteria are:
 .. _giter8: https://github.com/n8han/giter8/
 
 .. _scala-ide: http://scala-ide.org/
-.. _scalatest plugin: https://github.com/scalatest/scalatest-eclipse-plugin
-.. _insynth: https://github.com/kaptoxic/scala-ide-insynth-integration/tree/master/ch.epfl.insynth.build
+.. _scalatest-plugin: http://github.com/scalatest/scalatest-eclipse-plugin
+.. _insynth: http://github.com/kaptoxic/scala-ide-insynth-integration/wiki
