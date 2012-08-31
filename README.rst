@@ -47,11 +47,13 @@ Contains development version of plugins for Scala IDE 2.1.x and Scala 2.9.x.
 * ScalaTest plugin for Scala IDE 0.9.2 - `project page`__
 * InSynth code synthesis 0.0.1-nightly - `project wiki`__
 * SBT Console for Scala IDE 0.1.x - `project wiki`__
+* Play 2 support for Scala IDE 0.1.x `project wiki`__
 
 __ scala-ide_
 __ scalatest-plugin_
 __ insynth_
 __ sbtconsole_
+__ play2_
 
 dev-scala-ide-master-scala-trunk
 ................................
@@ -145,3 +147,4 @@ But the basic criteria are:
 .. _scalatest-plugin: http://github.com/scalatest/scalatest-eclipse-plugin
 .. _insynth: http://github.com/kaptoxic/scala-ide-insynth-integration/wiki
 .. _sbtconsole: http://github.com/SandroGrzicic/sbtconsole/wiki
+.. _play2: http://github.com/amirsh/scala-ide-play2/wiki/Documentation
