@@ -46,10 +46,12 @@ Contains development version of plugins for Scala IDE 2.1.x and Scala 2.9.x.
 * Scala IDE 2.1.x - `website`__
 * ScalaTest plugin for Scala IDE 0.9.2 - `project page`__
 * InSynth code synthesis 0.0.1-nightly - `project wiki`__
+* SBT Console for Scala IDE 0.1.x - `project wiki`__
 
 __ scala-ide_
 __ scalatest-plugin_
 __ insynth_
+__ sbtconsole_
 
 dev-scala-ide-master-scala-trunk
 ................................
@@ -60,9 +62,11 @@ Contains development version of plugins for Scala IDE 2.1.x and Scala 2.10.x.
 
 * Scala IDE 2.1.x - `website`__
 * InSynth code synthesis 0.0.1-nightly - `project wiki`__
+* SBT Console for Scala IDE 0.1.x - `project wiki`__
 
 __ scala-ide_
 __ insynth_
+__ sbtconsole_
 
 How to make a plugin of your project
 ----------------------------------
@@ -140,3 +144,4 @@ But the basic criteria are:
 .. _scala-ide: http://scala-ide.org/
 .. _scalatest-plugin: http://github.com/scalatest/scalatest-eclipse-plugin
 .. _insynth: http://github.com/kaptoxic/scala-ide-insynth-integration/wiki
+.. _sbtconsole: http://github.com/SandroGrzicic/sbtconsole/wiki

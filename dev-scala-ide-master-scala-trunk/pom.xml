@@ -28,7 +28,8 @@
 
     <!-- plugin repos -->
     <repo.scala-ide>${repo.scala-ide.root}/nightly-update-master-trunk</repo.scala-ide>
-    <repo.insynth>http://scala-ide.dreamhosters.com/nightly-update-insynth-scalaide21-210/site/</repo.insynth>
+    <repo.insynth>${repo.scala-ide.root}/nightly-update-insynth-scalaide21-210/site/</repo.insynth>
+    <repo.scala-ide.sbtconsole>${repo.scala-ide.root}/nightly-update-sbtconsole-scalaide21-210/site/</repo.scala-ide.sbtconsole> 
   </properties>
 
   <repositories>
@@ -55,6 +56,13 @@
       <name>InSynth for Scala IDE p2 repository</name>
       <layout>p2</layout>
       <url>${repo.insynth}</url>
+    </repository>
+    <repository>
+      <id>scala-ide.sbtconsle</id>
+      <name>SBT Console for Scala IDE p2 repository</name>
+      <layout>p2</layout>
+      <url>${repo.scala-ide.sbtconsole}</url>
+      <snapshots><enabled>false</enabled></snapshots>
     </repository>
   </repositories>
 

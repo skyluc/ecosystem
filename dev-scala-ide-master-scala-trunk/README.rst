@@ -5,3 +5,4 @@ Contains development version of plugins for Scala IDE 2.1.x and Scala 2.10.x.
 
 * Scala IDE 2.1.x
 * InSynth code synthesis for Scala IDE 0.0.1-nightly
+* SBT Console for Scala IDE 0.1.x
