@@ -33,10 +33,17 @@
    <feature url="features/org.scala-ide.play2.source.feature_0.0.0.jar" id="org.scala-ide.play2.source.feature" version="0.1.0">
       <category name="source"/>
    </feature>
+   <feature url="features/org.scalaide.worksheet.feature_0.0.0.jar" id="org.scalaide.worksheet.feature" version="0.1.0">
+      <category name="sdt.worksheet"/>
+   </feature>
+   <feature url="features/org.scalaide.worksheet.source.feature_0.0.0.jar" id="org.scalaide.worksheet.source.feature" version="0.1.0">
+      <category name="source"/>
+   </feature>
    <category-def name="sdt" label="Scala IDE for Eclipse"/>
    <category-def name="sdt.scalatest" label="ScalaTest for Scala IDE"/>
    <category-def name="sdt.sbtconsole" label="SBT Console for Scala IDE"/>
    <category-def name="sdt.play2" label="Play 2 support for Scala IDE"/>
+   <category-def name="sdt.worksheet" label="Scala Worksheet"/>
    <category-def name="dev" label="Scala IDE for Eclipse development support"/>
    <category-def name="source" label="Sources"/>
    <category-def name="sdt.codeSynthesis" label="InSynth code synthesis for Scala IDE"/>

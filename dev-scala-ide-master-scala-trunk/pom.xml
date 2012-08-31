@@ -30,6 +30,7 @@
     <repo.scala-ide>${repo.scala-ide.root}/nightly-update-master-trunk</repo.scala-ide>
     <repo.insynth>${repo.scala-ide.root}/nightly-update-insynth-scalaide21-210/site/</repo.insynth>
     <repo.scala-ide.sbtconsole>${repo.scala-ide.root}/nightly-update-sbtconsole-scalaide21-210/site/</repo.scala-ide.sbtconsole> 
+    <repo.scala-ide.worksheet>${repo.scala-ide.root}/nightly-update-worksheet-scalaide21-210/site/</repo.scala-ide.worksheet>
   </properties>
 
   <repositories>
@@ -62,7 +63,12 @@
       <name>SBT Console for Scala IDE p2 repository</name>
       <layout>p2</layout>
       <url>${repo.scala-ide.sbtconsole}</url>
-      <snapshots><enabled>false</enabled></snapshots>
+    </repository>
+    <repository>
+      <id>scala-ide.worksheet</id>
+      <name>Scala Worksheet p2 repository</name>
+      <layout>p2</layout>
+      <url>${repo.scala-ide.worksheet}</url>
     </repository>
   </repositories>
 

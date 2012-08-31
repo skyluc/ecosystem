@@ -32,6 +32,7 @@
     <repo.insynth>${repo.scala-ide.root}/nightly-update-insynth-scalaide21-29/site/</repo.insynth>
     <repo.scala-ide.sbtconsole>${repo.scala-ide.root}/nightly-update-sbtconsole-scalaide21-29/site/</repo.scala-ide.sbtconsole> 
     <repo.scala-ide.play2>${repo.scala-ide.root}/play2/nightly-2.1-2.9/site/</repo.scala-ide.play2> 
+    <repo.scala-ide.worksheet>${repo.scala-ide.root}/nightly-update-worksheet-scalaide21-29/site/</repo.scala-ide.worksheet> 
   </properties>
 
   <repositories>
@@ -76,6 +77,12 @@
       <name>Play 2 support for Scala IDE p2 repository</name>
       <layout>p2</layout>
       <url>${repo.scala-ide.play2}</url>
+    </repository>    
+    <repository>
+      <id>scala-ide.worksheet</id>
+      <name>Scala Worksheet p2 repository</name>
+      <layout>p2</layout>
+      <url>${repo.scala-ide.worksheet}</url>
     </repository>    
   </repositories>
 

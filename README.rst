@@ -48,12 +48,14 @@ Contains development version of plugins for Scala IDE 2.1.x and Scala 2.9.x.
 * InSynth code synthesis 0.0.1-nightly - `project wiki`__
 * SBT Console for Scala IDE 0.1.x - `project wiki`__
 * Play 2 support for Scala IDE 0.1.x `project wiki`__
+* Scala Worksheet 0.1.x `project page`__
 
 __ scala-ide_
 __ scalatest-plugin_
 __ insynth_
 __ sbtconsole_
 __ play2_
+__ worksheet_
 
 dev-scala-ide-master-scala-trunk
 ................................
@@ -65,10 +67,12 @@ Contains development version of plugins for Scala IDE 2.1.x and Scala 2.10.x.
 * Scala IDE 2.1.x - `website`__
 * InSynth code synthesis 0.0.1-nightly - `project wiki`__
 * SBT Console for Scala IDE 0.1.x - `project wiki`__
+* Scala Worksheet 0.1.x `project page`__
 
 __ scala-ide_
 __ insynth_
 __ sbtconsole_
+__ worksheet_
 
 How to make a plugin of your project
 ----------------------------------
@@ -148,3 +152,4 @@ But the basic criteria are:
 .. _insynth: http://github.com/kaptoxic/scala-ide-insynth-integration/wiki
 .. _sbtconsole: http://github.com/SandroGrzicic/sbtconsole/wiki
 .. _play2: http://github.com/amirsh/scala-ide-play2/wiki/Documentation
+.. _worksheet: http://github.com/dragos/scala-worksheet

@@ -21,8 +21,15 @@
    <feature url="features/org.scala-ide.sdt.sbtconsole.source.feature_0.0.0.jar" id="org.scala-ide.sdt.sbtconsole.source.feature" version="0.1.0">
       <category name="source"/>
    </feature>
+   <feature url="features/org.scala-ide.worksheet.feature_0.0.0.jar" id="org.scala-ide.worksheet.feature" version="0.1.0">
+      <category name="worksheet"/>
+   </feature>
+   <feature url="features/org.scala-ide.worksheet.source.feature_0.0.0.jar" id="org.scala-ide.worksheet.source.feature" version="0.1.0">
+      <category name="source"/>
+   </feature>
    <category-def name="sdt" label="Scala IDE for Eclipse"/>
    <category-def name="sdt.sbtconsole" label="SBT Console for Scala IDE"/>
+   <category-def name="worksheet" label="Scala Worksheet"/>
    <category-def name="dev" label="Scala IDE for Eclipse development support"/>
    <category-def name="source" label="Sources"/>
    <category-def name="sdt.codeSynthesis" label="InSynth code synthesis for Scala IDE for Eclise support"/>
