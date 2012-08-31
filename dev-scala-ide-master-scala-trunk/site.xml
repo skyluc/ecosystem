@@ -21,10 +21,10 @@
    <feature url="features/org.scala-ide.sdt.sbtconsole.source.feature_0.0.0.jar" id="org.scala-ide.sdt.sbtconsole.source.feature" version="0.1.0">
       <category name="source"/>
    </feature>
-   <feature url="features/org.scala-ide.worksheet.feature_0.0.0.jar" id="org.scala-ide.worksheet.feature" version="0.1.0">
+   <feature url="features/org.scalaide.worksheet.feature_0.0.0.jar" id="org.scalaide.worksheet.feature" version="0.1.0">
       <category name="worksheet"/>
    </feature>
-   <feature url="features/org.scala-ide.worksheet.source.feature_0.0.0.jar" id="org.scala-ide.worksheet.source.feature" version="0.1.0">
+   <feature url="features/org.scalaide.worksheet.source.feature_0.0.0.jar" id="org.scalaide.worksheet.source.feature" version="0.1.0">
       <category name="source"/>
    </feature>
    <category-def name="sdt" label="Scala IDE for Eclipse"/>
