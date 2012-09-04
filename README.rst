@@ -152,4 +152,4 @@ But the basic criteria are:
 .. _insynth: http://github.com/kaptoxic/scala-ide-insynth-integration/wiki
 .. _sbtconsole: http://github.com/SandroGrzicic/sbtconsole/wiki
 .. _play2: http://github.com/amirsh/scala-ide-play2/wiki/Documentation
-.. _worksheet: http://github.com/dragos/scala-worksheet
+.. _worksheet: https://github.com/scala-ide/scala-worksheet/wiki/Getting-Started
