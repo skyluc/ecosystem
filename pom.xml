@@ -15,7 +15,7 @@
     <dependency>
       <groupId>org.scala-ide</groupId>
       <artifactId>build-tools_2.10</artifactId>
-      <version>0.4.1</version>
+      <version>0.4.2</version>
     </dependency>
   </dependencies>
   <profiles>
@@ -37,6 +37,9 @@
             </executions>
             <configuration>
               <mainClass>org.scalaide.buildtools.GenerateEcosystemBuilds</mainClass>
+              <arguments>
+                <argument>--force=helium-e37-scala29-dev,helium-e37-scala210-dev,helium-e38-scala29-dev,helium-e38-scala210-dev,lithium-e38-scala210-dev,helium-e37-scala29-stable,helium-e37-scala210-stable,helium-e38-scala29-stable,helium-e38-scala210-stable</argument>
+              </argument>
             </configuration>
           </plugin>
         </plugins>
